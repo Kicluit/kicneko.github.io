@@ -1,2 +1,0 @@
-# kicneko.github.io
-hello
